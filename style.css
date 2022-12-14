@@ -1,0 +1,169 @@
+#mainbody {
+    width: 85vw;
+    height: 98vh;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(43, 42, 42);
+    margin: auto;
+}
+
+#contener1 {
+    width: 34vw;
+    height: 98vh;
+    background-color: rgb(43, 42, 42);
+}
+
+#contener2 {
+    width: 50vw;
+    height: 60vh;
+    margin-left: 50px;
+    margin-top: 10px;
+    background-color: rgb(43, 42, 42);
+    margin-top: 40px;
+}
+
+#contener1_1 {
+    width: 23vw;
+    height: 95vh;
+    border: 1px solid white;
+    margin-left: 95px;
+    border-radius: 5vh;
+    margin-top: 10px;
+    box-shadow: 0px 0px 2px 2px white;
+    background-color: black;
+}
+
+#text {
+    font-size: 70px;
+    margin-top: -10px;
+    color: white;
+}
+
+#text1 {
+    font-size: 90px;
+    margin-top: -80px;
+    color: white;
+}
+
+#text2 {
+    font-size: 90px;
+    margin-top: -70px;
+    color: white;
+}
+
+#text3 {
+    font-size: 70px;
+    margin-top: -70px;
+    color: white;
+}
+
+#bettrey {
+    width: 14px;
+    height: 8px;
+    border: 1px solid white;
+    margin-top: 7px;
+    margin-left: 252px;
+}
+
+#subbettrey {
+    width: 12.7px;
+    height: 6.1px;
+    background-color: white;
+    border: 1px solid black;
+    margin-top: 0.3px;
+}
+
+#contenerbody {
+    width: 22vw;
+    height: 25vh;
+    margin-top: -555px;
+    border: 1px solid black;
+    margin-left: 100px;
+    color: white;
+    font-size: 4.3em;
+}
+#contenerbody1{
+    width: 22vw;
+    height: 48vh;
+    margin-left: 100px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-top: 2px;
+}
+#but1,#but2,#but3,#but5,#but6,#but7,#but8,#but9,#but10,#but11,#but13,#but14,#but15{
+    width: 4vw;
+    height: 8vh;
+    border: 1px solid white;
+    border-radius: 50%;
+    margin-left: 10px;
+    background-color: grey;
+    margin-top: 5px;
+    text-align: center;
+}
+#but4,#but8,#but12,#but16{
+    width: 4vw;
+    height: 8vh;
+    border: 1px solid white;
+    border-radius: 50%;
+    margin-left: 10px;
+    background-color: rgb(245, 203, 15);
+    margin-top: 5px;
+    text-align: center;
+}
+#downBtn{
+    width: 22vw;
+    height: 8vh;
+    margin-left: 100px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-top: -6px;
+}
+
+#but17{
+    width: 9vw;
+    height: 8vh;
+    border: 1px solid white;
+    border-radius: 35.5%;
+    margin-left: 10px;
+    background-color: grey;
+    text-align: center;
+}
+
+#but18{
+    width: 4vw;
+    height: 8vh;
+    border: 1px solid white;
+    border-radius: 50%;
+    margin-left: 10px;
+    background-color: grey;
+    text-align: center;
+    margin-left: 15px;
+}
+
+#but19{
+    width: 4vw;
+    height: 8vh;
+    border: 1px solid white;
+    border-radius: 50%;
+    margin-left: 10px;
+    background-color: rgb(245, 203, 15);
+    text-align: center;
+}
+
+.line{
+    width: 10vw;
+    height: 0.5vh;
+    margin-left: 43%;
+    margin-top: 10%;
+    background-color: white;
+}
+.time{
+    width: 6vw;
+    height: 2vh;
+    margin-left: 5px;
+    margin-top: -15px;
+    color: white;
+    text-align: center;
+    font-size: 90%;
+}
